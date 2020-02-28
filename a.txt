@@ -1,0 +1,11 @@
+> cursos/administracao.html
+> cursos/analiseEDesenvolvimentoDeSoftware.html
+> cursos/bancoDeDados.html
+> cursos/engenhariaDeComputacao.html
+> cursos/engenhariaDaProducao.html
+> cursos/engenhariaMecatronica.html
+> cursos/gestaoDeTecnologiaDaInformacao.html
+> cursos/jogosDigitais.html
+> cursos/sistemasDeInformacao.html
+> cursos/sistemasParaInternet.html
+> cursos/redeDeComputadores.html
